@@ -1,0 +1,5 @@
+{
+  "name": "MeloniUSK",
+  "symbol": "MLUSK",
+  "uri": "https://github.com/LeCrazyDev/Meloniusk2/blob/main/Meloniusk.json.txt"
+}
