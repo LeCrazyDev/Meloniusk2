@@ -1,5 +1,5 @@
 {
   "name": "MeloniUSK",
   "symbol": "MLUSK",
-  "uri": "https://github.com/LeCrazyDev/Meloniusk2/blob/main/Meloniusk.json.txt"
+  "uri": "https://raw.githubusercontent.com/LeCrazyDev/Meloniusk2/refs/heads/main/Meloniusk.json.txt"
 }
